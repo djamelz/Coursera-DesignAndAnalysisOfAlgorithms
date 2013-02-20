@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/quick_sort.py" line="23" mnemonic="5" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaab96-055e-4a08-a701-62c33e6dd0cc" name="Default" comment="" />
-    <ignored path="Week2.iws" />
+    <list default="true" id="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" name="Default" comment="" />
+    <ignored path="Week3.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/test_quick_sort.py" changelist="76eaab96-055e-4a08-a701-62c33e6dd0cc" time="1361127060517" ignored="false" />
-    <file path="/quick_sort.py" changelist="76eaab96-055e-4a08-a701-62c33e6dd0cc" time="1361128592937" ignored="false" />
-    <file path="/fragment.py" changelist="76eaab96-055e-4a08-a701-62c33e6dd0cc" time="1361127754083" ignored="false" />
+    <file path="/random_contraction.py" changelist="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" time="1361366864688" ignored="false" />
+    <file path="/test_random_contraction.py" changelist="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" time="1361364822146" ignored="false" />
+    <file path="/vertex.py" changelist="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" time="1361312246428" ignored="false" />
+    <file path="/test_vertex.py" changelist="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" time="1361314799014" ignored="false" />
+    <file path="/fragment.py" changelist="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" time="1361318099076" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,30 +25,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
+      <file leaf-file-name="random_contraction.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/random_contraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_quick_sort.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tests/test_quick_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="31" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.64668095">
+            <state line="23" column="25" selection-start="597" selection-end="597" vertical-scroll-proportion="0.619137">
               <folding>
-                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#23#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quick_sort.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quick_sort.py">
+      <file leaf-file-name="kargerMinCut.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kargerMinCut.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="55" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
+            <state line="0" column="4" selection-start="1" selection-end="2" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +48,27 @@
       <file leaf-file-name="test2.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+            <state line="19" column="32" selection-start="384" selection-end="384" vertical-scroll-proportion="-5.5882354">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_random_contraction.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/test_random_contraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="8" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.88235295">
               <folding />
             </state>
           </provider>
@@ -74,11 +84,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/../Week1/inversion_of_number.py" />
+        <option value="$PROJECT_DIR$/vertex.py" />
+        <option value="$PROJECT_DIR$/Tests/test_vertex.py" />
+        <option value="$PROJECT_DIR$/Tests/test2.txt" />
         <option value="$PROJECT_DIR$/test2.txt" />
-        <option value="$PROJECT_DIR$/quick_sort.py" />
-        <option value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+        <option value="$PROJECT_DIR$/random_contraction.py" />
       </list>
     </option>
   </component>
@@ -113,31 +125,32 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,14 +160,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -164,19 +176,49 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.unit_test">
-    <configuration default="false" name="Unittest TestQuickSort.test_compute_with_test2_final_pivot" type="tests" factoryName="Unittests" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittest TestRandomContraction.test_compute_week3">
+    <configuration default="false" name="Unittests in TestRandomContraction" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
-      <option name="CLASS_NAME" value="TestQuickSort" />
-      <option name="METHOD_NAME" value="test_compute_with_test2_final_pivot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+      <option name="CLASS_NAME" value="TestRandomContraction" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestRandomContraction.test_compute_with_graph_4_vertices" type="tests" factoryName="Unittests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Week3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+      <option name="CLASS_NAME" value="TestRandomContraction" />
+      <option name="METHOD_NAME" value="test_compute_with_graph_4_vertices" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -190,18 +232,18 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestQuickSort.test_compute_with_test_final_pivot" type="tests" factoryName="Unittests" temporary="true">
+    <configuration default="false" name="Unittest TestRandomContraction.test_compute_with_test2" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
-      <option name="CLASS_NAME" value="TestQuickSort" />
-      <option name="METHOD_NAME" value="test_compute_with_test_final_pivot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+      <option name="CLASS_NAME" value="TestRandomContraction" />
+      <option name="METHOD_NAME" value="test_compute_with_test2" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -215,18 +257,18 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestQuickSort.test_get_median_first_match" type="tests" factoryName="Unittests" temporary="true">
+    <configuration default="false" name="Unittest TestRandomContraction.test_build_graph" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
-      <option name="CLASS_NAME" value="TestQuickSort" />
-      <option name="METHOD_NAME" value="test_get_median_first_match" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+      <option name="CLASS_NAME" value="TestRandomContraction" />
+      <option name="METHOD_NAME" value="test_build_graph" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -240,18 +282,18 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestQuickSort.test_get_median_even_number" type="tests" factoryName="Unittests" temporary="true">
+    <configuration default="false" name="Unittest TestRandomContraction.test_compute_week3" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
-      <option name="CLASS_NAME" value="TestQuickSort" />
-      <option name="METHOD_NAME" value="test_get_median_even_number" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_random_contraction.py" />
+      <option name="CLASS_NAME" value="TestRandomContraction" />
+      <option name="METHOD_NAME" value="test_compute_week3" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -260,33 +302,10 @@
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonCover" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestQuickSort.test_compute_with_test_median_pivot" type="tests" factoryName="Unittests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_quick_sort.py" />
-      <option name="CLASS_NAME" value="TestQuickSort" />
-      <option name="METHOD_NAME" value="test_compute_with_test_median_pivot" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -299,7 +318,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -312,7 +331,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -333,7 +352,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -344,19 +363,19 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="unit_test" type="tests" factoryName="Unittests">
+    <configuration default="false" name="unittest" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week2" />
+      <module name="Week3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$/Tests" />
       <option name="TEST_TYPE" value="TEST_FOLDER" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
@@ -370,51 +389,51 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.unit_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test2_final_pivot" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test_final_pivot" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_get_median_first_match" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_get_median_even_number" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test_median_pivot" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.unittest" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestRandomContraction" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_with_graph_4_vertices" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_with_test2" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_build_graph" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_week3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test_median_pivot" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_get_median_even_number" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_get_median_first_match" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test_final_pivot" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestQuickSort.test_compute_with_test2_final_pivot" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_week3" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestRandomContraction" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_with_graph_4_vertices" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_build_graph" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestRandomContraction.test_compute_with_test2" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76eaab96-055e-4a08-a701-62c33e6dd0cc" name="Default" comment="" />
-      <created>1361056805118</created>
-      <updated>1361056805118</updated>
+      <changelist id="e49bb8f1-e1bb-4185-8de9-9e8ec2c73717" name="Default" comment="" />
+      <created>1361289823618</created>
+      <updated>1361289823618</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17929563" sideWeight="0.74012476" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18303095" sideWeight="0.5831601" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31496882" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25987527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41683993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -473,64 +492,66 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Tests/test_random_contraction.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="29" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Week1/Tests/test_inversion_of_number.py">
+    <entry file="file://$PROJECT_DIR$/../Week2/quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="122" selection-start="192" selection-end="273" vertical-scroll-proportion="0.0">
+        <state line="14" column="62" selection-start="24" selection-end="376" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/suite.py">
+    <entry file="file://$PROJECT_DIR$/../Week2/Tests/test_quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="0" selection-start="3255" selection-end="3255" vertical-scroll-proportion="0.0">
+        <state line="10" column="102" selection-start="194" selection-end="259" vertical-scroll-proportion="0.21880065">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Week1/inversion_of_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="48" selection-end="189" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="390" column="0" selection-start="13396" selection-end="13396" vertical-scroll-proportion="0.20760234">
+        <state line="3" column="8" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.88235295">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+        <state line="19" column="32" selection-start="384" selection-end="384" vertical-scroll-proportion="-5.5882354">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quick_sort.py">
+    <entry file="file://$PROJECT_DIR$/kargerMinCut.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="55" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
+        <state line="0" column="4" selection-start="1" selection-end="2" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/test_quick_sort.py">
+    <entry file="file://$PROJECT_DIR$/Tests/test_random_contraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="31" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.64668095">
+        <state line="28" column="0" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_contraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="25" selection-start="597" selection-end="597" vertical-scroll-proportion="0.619137">
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
