@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/shortest_path.py" line="21" mnemonic="5" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5303bad0-2971-4826-ae89-f9d6e0076056" name="Default" comment="" />
-    <ignored path="Week5.iws" />
+    <list default="true" id="53c4a818-de2f-4c06-b3da-bc4a464d2d28" name="Default" comment="" />
+    <ignored path="Week6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/shortest_path.py" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362938846413" ignored="false" />
-    <file path="/test_shortest_path.py" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362935979149" ignored="false" />
-    <file path="/custom_heap.py" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362933853637" ignored="false" />
-    <file path="/test_custom_heap.py" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362933597912" ignored="false" />
-    <file path="/DjikstraTest1.txt" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362927591131" ignored="false" />
-    <file path="/DjikstraTest2.txt" changelist="5303bad0-2971-4826-ae89-f9d6e0076056" time="1362936331601" ignored="false" />
+    <file path="/test_two_sum.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363527538041" ignored="false" />
+    <file path="/two_sum.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363527500988" ignored="false" />
+    <file path="/test_median_maintenance.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363550705498" ignored="false" />
+    <file path="/median_maintenance.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363550389329" ignored="false" />
+    <file path="/custom_heap.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363546906252" ignored="false" />
+    <file path="/custom_max_heap.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363547353083" ignored="false" />
+    <file path="/test_custom_min_heap.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363545124138" ignored="false" />
+    <file path="/test_custom_max_heap.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363545250799" ignored="false" />
+    <file path="/custom_min_heap.py" changelist="53c4a818-de2f-4c06-b3da-bc4a464d2d28" time="1363547374188" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,54 +29,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shortest_path.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shortest_path.py">
+      <file leaf-file-name="test_median_maintenance.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/test_median_maintenance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="24" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.87306064">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DjikstraTest1.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjikstraTest1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="4" selection-start="1" selection-end="2" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom_heap.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom_heap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_custom_heap.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/test_custom_heap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="60" selection-start="2856" selection-end="2856" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#23#38#0" expanded="true" />
-                <element signature="e#332#974#0" expanded="false" />
-                <element signature="e#1029#1542#0" expanded="false" />
-                <element signature="e#1591#1866#0" expanded="false" />
-                <element signature="e#1914#2098#0" expanded="false" />
-                <element signature="e#2147#2290#0" expanded="false" />
-                <element signature="e#2339#2568#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_shortest_path.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/test_shortest_path.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="75" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
+            <state line="17" column="29" selection-start="580" selection-end="580" vertical-scroll-proportion="0.4132901">
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -84,29 +40,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DjikstraTest3.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjikstraTest3.txt">
+      <file leaf-file-name="MedianTest1.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MedianTest1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DjikstraTest2.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjikstraTest2.txt">
+      <file leaf-file-name="Median.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Median.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="72" selection-end="73" vertical-scroll-proportion="-1.1764706">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="case.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py">
+      <file leaf-file-name="median_maintenance.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/median_maintenance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="331" column="0" selection-start="11008" selection-end="11008" vertical-scroll-proportion="0.0">
+            <state line="39" column="29" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#23#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_max_heap.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom_max_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="108" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_min_heap.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom_min_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="34" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_custom_max_heap.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/test_custom_max_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="8" selection-start="1567" selection-end="1567" vertical-scroll-proportion="-18.235294">
+              <folding>
+                <element signature="e#25#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_custom_min_heap.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/test_custom_min_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="8" selection-start="1525" selection-end="1525" vertical-scroll-proportion="-3.6862745">
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,22 +119,25 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/djikstra_test_1.txt" />
-        <option value="$PROJECT_DIR$/DjikstraTest1.txt" />
+        <option value="$PROJECT_DIR$/twosummedium.txt" />
+        <option value="$PROJECT_DIR$/two_sum.py" />
+        <option value="$PROJECT_DIR$/Tests/test_two_sum.py" />
+        <option value="$PROJECT_DIR$/Tests/custom_heap.py" />
         <option value="$PROJECT_DIR$/custom_heap.py" />
-        <option value="$PROJECT_DIR$/Tests/test_custom_heap.py" />
-        <option value="$PROJECT_DIR$/DjikstraTest2.txt" />
-        <option value="$PROJECT_DIR$/DjikstraTest3.txt" />
-        <option value="$PROJECT_DIR$/Tests/test_shortest_path.py" />
-        <option value="$PROJECT_DIR$/shortest_path.py" />
+        <option value="$PROJECT_DIR$/MedianTest1.txt" />
+        <option value="$PROJECT_DIR$/Tests/test_custom_min_heap.py" />
+        <option value="$PROJECT_DIR$/custom_min_heap.py" />
+        <option value="$PROJECT_DIR$/Tests/test_custom_max_heap.py" />
+        <option value="$PROJECT_DIR$/custom_max_heap.py" />
+        <option value="$PROJECT_DIR$/median_maintenance.py" />
+        <option value="$PROJECT_DIR$/Tests/test_median_maintenance.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="22" />
-    <option name="width" value="1395" />
-    <option name="height" value="878" />
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -169,27 +170,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week5" />
+              <option name="myItemId" value="Week6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week5" />
+              <option name="myItemId" value="Week6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week5" />
+              <option name="myItemId" value="Week6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week5" />
+              <option name="myItemId" value="Week6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week5" />
+              <option name="myItemId" value="Week6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -215,115 +216,24 @@
       <PyConsoleSettings />
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.unit_tests">
-    <configuration default="false" name="Unittests in TestShortestPath" type="tests" factoryName="Unittests" temporary="true">
+    <configuration default="false" name="Unittest TestMedianMaintenance.test_compute_median_maintenance" type="tests" factoryName="Unittests" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week5" />
+      <module name="Week6" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_shortest_path.py" />
-      <option name="CLASS_NAME" value="TestShortestPath" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestCustomHeap.test_insert" type="tests" factoryName="Unittests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week5" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_custom_heap.py" />
-      <option name="CLASS_NAME" value="TestCustomHeap" />
-      <option name="METHOD_NAME" value="test_insert" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestShortestPath.test_shortest_path_test2" type="tests" factoryName="Unittests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week5" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_shortest_path.py" />
-      <option name="CLASS_NAME" value="TestShortestPath" />
-      <option name="METHOD_NAME" value="test_shortest_path_test2" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestShortestPath.test_shortest_path_test3" type="tests" factoryName="Unittests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week5" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_shortest_path.py" />
-      <option name="CLASS_NAME" value="TestShortestPath" />
-      <option name="METHOD_NAME" value="test_shortest_path_test3" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestShortestPath.test_shortest_path_test1" type="tests" factoryName="Unittests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Week5" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_shortest_path.py" />
-      <option name="CLASS_NAME" value="TestShortestPath" />
-      <option name="METHOD_NAME" value="test_shortest_path_test1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_median_maintenance.py" />
+      <option name="CLASS_NAME" value="TestMedianMaintenance" />
+      <option name="METHOD_NAME" value="test_compute_median_maintenance" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -346,7 +256,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week5" />
+      <module name="Week6" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -359,7 +269,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week5" />
+      <module name="Week6" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -380,7 +290,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week5" />
+      <module name="Week6" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -398,7 +308,7 @@
       <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="Week5" />
+      <module name="Week6" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -416,46 +326,38 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="6">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python tests.unit_tests" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestShortestPath" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCustomHeap.test_insert" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test2" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test3" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test1" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMedianMaintenance.test_compute_median_maintenance" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test1" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestShortestPath" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test3" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestShortestPath.test_shortest_path_test2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCustomHeap.test_insert" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestMedianMaintenance.test_compute_median_maintenance" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5303bad0-2971-4826-ae89-f9d6e0076056" name="Default" comment="" />
-      <created>1362866917923</created>
-      <updated>1362866917923</updated>
+      <changelist id="53c4a818-de2f-4c06-b3da-bc4a464d2d28" name="Default" comment="" />
+      <created>1363521292925</created>
+      <updated>1363521292925</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="22" width="1395" height="878" extended-state="0" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981467" sideWeight="0.58289474" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67047817" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987398" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41710526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -522,109 +424,126 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/shortest_path.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/shortest_path.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/shortest_path.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/custom_max_heap.py</url>
+          <line>11</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Week2/quick_sort.py">
+    <entry file="file://$PROJECT_DIR$/../Week2/Tests/test_quick_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="12" selection-start="917" selection-end="964" vertical-scroll-proportion="0.4817987">
+        <state line="10" column="101" selection-start="194" selection-end="258" vertical-scroll-proportion="0.21880065">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Week3/Tests/test_random_contraction.py">
+    <entry file="file://$PROJECT_DIR$/twosummedium.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="107" selection-start="195" selection-end="261" vertical-scroll-proportion="0.12847966">
+        <state line="6" column="3" selection-start="23" selection-end="25" vertical-scroll-proportion="-0.8868243">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Week3/random_contraction.py">
+    <entry file="file://$PROJECT_DIR$/../Week5/shortest_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="76" selection-start="646" selection-end="697" vertical-scroll-proportion="0.0">
+        <state line="14" column="47" selection-start="115" selection-end="449" vertical-scroll-proportion="0.34035656">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjikstraTest3.txt">
+    <entry file="file://$PROJECT_DIR$/Median.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjikstraTest2.txt">
+    <entry file="file://$PROJECT_DIR$/MedianTest1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="72" selection-end="73" vertical-scroll-proportion="-1.1764706">
+        <state line="4" column="0" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjikstraTest1.txt">
+    <entry file="file://$PROJECT_DIR$/two_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="1" selection-end="2" vertical-scroll-proportion="0.0">
+        <state line="5" column="15" selection-start="79" selection-end="111" vertical-scroll-proportion="0.12626262">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/custom_heap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+        <state line="5" column="11" selection-start="56" selection-end="56" vertical-scroll-proportion="0.12155592">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="104" selection-start="221" selection-end="277" vertical-scroll-proportion="0.19448946">
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="0" selection-start="11008" selection-end="11008" vertical-scroll-proportion="0.0">
+        <state line="326" column="0" selection-start="10801" selection-end="10801" vertical-scroll-proportion="0.33272728">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/test_custom_heap.py">
+    <entry file="file://$PROJECT_DIR$/Tests/test_custom_min_heap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="60" selection-start="2856" selection-end="2856" vertical-scroll-proportion="0.0">
+        <state line="60" column="8" selection-start="1525" selection-end="1525" vertical-scroll-proportion="-3.6862745">
           <folding>
             <element signature="e#23#38#0" expanded="true" />
-            <element signature="e#332#974#0" expanded="false" />
-            <element signature="e#1029#1542#0" expanded="false" />
-            <element signature="e#1591#1866#0" expanded="false" />
-            <element signature="e#1914#2098#0" expanded="false" />
-            <element signature="e#2147#2290#0" expanded="false" />
-            <element signature="e#2339#2568#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/test_shortest_path.py">
+    <entry file="file://$PROJECT_DIR$/custom_min_heap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="75" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
+        <state line="40" column="34" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_max_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="108" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_custom_max_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="8" selection-start="1567" selection-end="1567" vertical-scroll-proportion="-18.235294">
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/median_maintenance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="29" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#23#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_median_maintenance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="29" selection-start="580" selection-end="580" vertical-scroll-proportion="0.4132901">
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shortest_path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="24" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.87306064">
-          <folding />
         </state>
       </provider>
     </entry>
